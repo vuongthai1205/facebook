@@ -1,0 +1,6 @@
+/* mobile và tablet */
+@media (max-width: 768px) {
+	.hide-on-tablet-mobile{
+		display: none;
+	}
+}
